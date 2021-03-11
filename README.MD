@@ -3,27 +3,27 @@
   - [GIF](#GIF)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Tests](#tests)
+  - [App Link] (#application)
   - [Contributing](#contributing)
   
   
-  ### Project Description
-
-  Note taking application that allows user to add and store notes.
-
-  ### GIF
+### Project Description
+  Note taking application that allows user to add, delete, and store notes. 
+  
+ ### Walkthrough 
  <!-- insert video of project functionality -->
+ 
+### Application Link 
+https://salty-chamber-98647.herokuapp.com/
 
-  ### Installation 
-  npm init, npm install inquirer, jest.
+### Installation 
+  npm init, npm install, npm express
 
-  ### Usage
+### Usage
  Input "node index.js" or "npm start" into the command line to start server. 
 
-  ### Tests  
-<!-- insert tests here -->
 
-## HTML 
+### HTML 
 <!-- insert HTML snippets here -->
 
 
@@ -31,7 +31,7 @@
 
  Noah Sherman  
  
-  ### Questions 
+### Questions 
  Please reach out should you have any questions.  
 
   Github Link: github.com/nsherman113
