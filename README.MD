@@ -1,9 +1,9 @@
 ### Table of Contents 
   - [Description](#description)
-  - [GIF](#GIF)
+  - [Image] (#image)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [App Link] (#application)
+  - [Link] (#application)
   - [Contributing](#contributing)
   
   
