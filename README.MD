@@ -1,9 +1,16 @@
 ### Table of Contents 
   - [Description](#description)
+<<<<<<< HEAD
   - [Image](#image)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Link](#link)
+=======
+  - [Image] (#image)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Link] (#link)
+>>>>>>> 32b143e8cd8c2e0e772a7d42c859db627677d0d5
   - [Contributing](#contributing)
   
   
@@ -23,6 +30,12 @@ https://salty-chamber-98647.herokuapp.com/
 ### Usage
  Input "node index.js" or "npm start" into the command line to start server. 
 
+<<<<<<< HEAD
+=======
+
+### HTML 
+<!-- insert HTML snippets here -->
+>>>>>>> 32b143e8cd8c2e0e772a7d42c859db627677d0d5
 
 
 ### Contributing
