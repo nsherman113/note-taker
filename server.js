@@ -1,27 +1,28 @@
-// Dependencies
+// initialize express 
 const express = require('express');
-// const path = require('path');
-// const fs = require('fs');
+
+// set up port
 const PORT = process.env.PORT || 3001;
 
-//Testing, not really needed here
+// require db file
 const dbJson = require('./db/db.json')
 
-// Sets up the Express App
+// initialize app 
 const app = express();
 
-//Accesses public file mainly for proper CSS loading
+// indicate static folders 
 app.use(express.static(__dirname + '/public'));
 app.use(express.static('./'));
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-//Require the Routes.js files in order to communicate when to generate api routes and html files
+// require routes
 require("./apiRoutes")(app);
 require("./htmlRoutes")(app);
 
 
+// listen for port
 app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}!`);
   });
