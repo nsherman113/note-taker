@@ -3,15 +3,16 @@
   - [Image] (#image)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Link] (#application)
+  - [Link] (#link)
   - [Contributing](#contributing)
   
   
 ### Project Description
   Note taking application that allows user to add, delete, and store notes. 
   
- ### Walkthrough 
- <!-- insert video of project functionality -->
+ ### HTML
+ ![image](https://user-images.githubusercontent.com/74440415/110739794-7bde3f00-81f7-11eb-86c9-b31d91086870.png)
+
  
 ### Application Link 
 https://salty-chamber-98647.herokuapp.com/
